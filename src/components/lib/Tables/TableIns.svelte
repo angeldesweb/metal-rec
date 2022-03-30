@@ -1,5 +1,4 @@
 <script>
-// @ts-nocheck
     import { getInbounds } from "../../../http-methods/inbounds";
     import { onDestroy, onMount } from "svelte";
     import { getProviders } from "../../../http-methods/providers";
