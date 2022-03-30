@@ -1,0 +1,24 @@
+{
+  "name": "metal-recuperadora",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "svelte": "^3.44.0",
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "@mdi/js": "^6.6.95",
+    "chart.js": "^3.7.1",
+    "firebase": "^9.6.9",
+    "mdi-svelte": "^1.1.2",
+    "moment": "^2.29.1",
+    "notyf": "^3.10.0"
+  }
+}
